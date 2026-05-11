@@ -25,8 +25,8 @@ const contactInfo = [
   {
     icon: Phone,
     label: 'Telepon',
-    value: '+62 812 3456 7890',
-    href: 'tel:+6281234567890',
+    value: '+62 838-2270-8928',
+    href: 'tel:+62 838-2270-8928',
   },
   {
     icon: MapPin,
